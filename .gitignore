@@ -1,0 +1,20 @@
+# Git
+*.orig
+*.rej
+
+# Vim
+.*.swp
+.*.swo
+.*.swp
+
+# Emacs
+*~
+
+# Python
+*.pyc
+
+# distutil
+MANIFEST
+dist/*
+build/*
+*.egg-info
